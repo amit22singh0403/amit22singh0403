@@ -31,7 +31,7 @@
   <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="50" /></a> 
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
-  <a href="https://www.unrealengine.com/" target="_blank"><img style="margin: 10px" src="https://vectorwiki.com/images/unreal-engine.svg" alt="Unreal Engine" height="50" /></a>   
+  <a href="https://www.unrealengine.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/6242274/177047592-bb0220d4-10f2-45ae-8b85-b207e86cc30e.png" alt="Unreal Engine"     height="50" /></a>   
   <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
   <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
 </div>  
@@ -40,17 +40,14 @@
 ## Connect with me  
 
 <div align="center">
-    <a href="https://github.com/Hariom329" target="_blank">
+    <a href="https://github.com/amit22singh0403" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.linkedin.com/in/hariom-mishra-7a8675221/" target="_blank">
+    <a href="https://www.linkedin.com/in/amit-singh-443684226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.instagram.com/mishscrub" target="_blank">
+    <a href="https://www.instagram.com/_amiit._?utm_source=qr&igsh=OWd1ODk0OWw5NzZz" target="_blank">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-    </a>
-     <a href="https://www.kaggle.com/hariommishra329" target="_blank">
-        <img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" />
     </a>
 </div>  
 <br/>  
