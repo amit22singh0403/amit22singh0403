@@ -1,29 +1,29 @@
-![github-header-image (9)](https://github.com/Hariom329/Hariom329/blob/main/github-header-image%20(3).png?raw=true)
+![github-header-image (9)](https://github.com/amit22singh0403/amit22singh0403/blob/main/github-header-image%20(4).png?raw=true)
 <!--
-# <div align="center">I'm Hariom, a ML Engineer & Developer from India. 🚀</div>  
+# <div align="center">I'm Amit, a Game Developer & Front End Developer from India. 🚀</div>  
 <br/>
 -->
 
 
-- 🔭 Currently working on LLM Projects(Gemma/LLaMa/Transformers Based Models)  
-- 🌱 I’m currently learning Efficient ways of Fine Tuning LLMs and iOS Application Development
-- ❓ Ask me about anything related to GenAI, LLMs, Android.
-- 📫 How to reach me c29hariommishra@gmail.com
+- 🔭 Currently working on JAVA Based Computer Softwares Primarly Focusing on Database Management  
+- 🌱 I’m currently learning Neural Networking and AI
+- ❓ Ask me about anything related to Front End WebSite Development and Game Development
+- 📫 How to reach me amit26543789@gmail.com
 <br/>
 
 ## My Skill Set
 
 <div align="center">  
-  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>    
+  <a href="https://www.w3.org/html/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="50" /></a>  
-  <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" height="50" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="50" /></a>
-  <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift" height="50" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+
+  
 </div> 
 <div align="center">  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
