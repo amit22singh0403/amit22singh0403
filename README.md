@@ -55,17 +55,18 @@
 <table>
      <tr> 
           <td>
-               <a href="http://www.github.com/Hariom329"><img src="https://github-readme-stats.vercel.app/api?username=Hariom329&show_icons=true&theme=transparent&hide_border=true" alt="Hariom329's GitHub stats" /></a> 
+               <a href="http://www.github.com/amit22singh0403"><img src="https://github-readme-stats.vercel.app/api?username=amit22singh0403&show_icons=true&theme=transparent&hide_border=true" alt="amit22singh0403's GitHub stats" /></a> 
           </td> 
           <td> 
-               <a href="http://www.github.com/Hariom329"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariom329&stroke=0891b2&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" alt="Hariom329's GitHub streak" /></a>
+               <a href="http://www.github.com/amit22singh0403"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amit22singh0403&stroke=0891b2&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" alt="amit22singh0403's GitHub streak" /></a>
           </td> 
      </tr> 
      <tr>
           <td colspan="2" align="center">
                <center>
-                 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHariom329%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHariom329%2F&labelColor=%23202a25&countColor=%23c4ebc8&style=flat" alt="visitor badge"/></a>
+                 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Famit22singh0403%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Famit22singh0403%2F&labelColor=%23202a25&countColor=%23c4ebc8&style=flat" alt="visitor badge"/></a>
                </center>
           </td>
      </tr>
 </table>
+
